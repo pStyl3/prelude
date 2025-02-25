@@ -240,6 +240,8 @@ common:
         text: 'É recomendado que verifique a seguinte compilação do patch de compatibilidade para este mod: {0}'
       - lang: ru
         text: 'Рекомендуется проверить следующую коллекцию патчей совместимости для этого мода: {0}'
+      - lang: sv
+        text: 'Det rekommenderas att du kontrollerar följande kompatibilitet patch sammanställning för denna mod: {0}'
       - lang: ta
         text: 'இந்த மோடிற்கான பின்வரும் பொருந்தக்கூடிய ஒட்டு தொகுப்பை சரிபார்க்க பரிந்துரைக்கப்படுகிறது: {0}'
       - lang: tr_TR
@@ -274,6 +276,8 @@ common:
         text: 'É recomendado que verifique a seguinte compilação do patch de compatibilidade para {0}: {1}'
       - lang: ru
         text: 'Рекомендуется проверить следующую коллекцию патчей совместимости для {0}: {1}'
+      - lang: sv
+        text: 'Det rekommenderas att du kontrollerar följande kompatibilitet patch sammanställning för {0}: {1}'
       - lang: ta
         text: '{0}: {1}க்கான பின்வரும் பொருந்தக்கூடிய ஒட்டு தொகுப்பைச் சரிபார்க்க பரிந்துரைக்கப்படுகிறது'
       - lang: tr_TR
@@ -350,6 +354,8 @@ common:
         text: 'Desative e/ou desinstale este mod após a criação da personagem.'
       - lang: ru
         text: 'Деактивируйте и/или удалите этот мод после создания персонажа.'
+      - lang: sv
+        text: 'Avaktivera och/eller avinstallera denna mod efter du skapat din karaktär.'
       - lang: ta
         text: 'கதாபாத்திரத்தை உருவாக்கிய பிறகு இந்த மோட் செயலிழக்க மற்றும்/அல்லது நிறுவல் நீக்கவும்.'
       - lang: tr_TR
@@ -505,6 +511,8 @@ common:
         text: 'Este plugin pode ser desativado após gerar **{0}** com **{1}**.'
       - lang: ru
         text: 'Этот плагин может быть отключен после генерации **{0}** с помощью **{1}**.'
+      - lang: sv
+        text: 'Detta plugin kan inaktiveras efter att ha genererat **{0}** med **{1}**.'
       - lang: ta
         text: '**{1}** உடன் **{0}** உருவாக்கியபிறகு இந்தச் சொருகி முடக்கப்படலாம்.'
       - lang: tr_TR
@@ -543,6 +551,8 @@ common:
         text: 'Aparentemente outro mod está a sobrescrever um dos ficheiros essenciais deste mod. Por favor certifique-se que usa a versão do mod {0} ou uma versão compatível, se disponível.'
       - lang: ru
         text: 'Другой мод может переписать один из критических файлов. Пожалуйста, убедитесь, что вы используете версию {0} из этого мода, или совместимую при ее наличии.'
+      - lang: sv
+        text: 'En annan mod verkar skriva över en av denna mods viktiga filer. Se till att du använder denna mods version av {0} eller en kompatibel version om den är tillgänglig.'
       - lang: ta
         text: 'மற்றொரு மோட் இந்த மோடின் அத்தியாவசிய கோப்புகளில் ஒன்றை மேலெழுதும் என்று தெரிகிறது. இந்த மோடின் பதிப்பின் {0} அல்லது கிடைத்தால் இணக்கமான பதிப்பைப் பயன்படுத்துகிறீர்கள் என்பதை உறுதிப்படுத்தவும்.'
       - lang: tr_TR
@@ -1092,7 +1102,7 @@ common:
       - lang: ru
         text: 'Похоже, что вы используете **{0}**, но его патч совместимости не был включен. Сторонний патч можно найти здесь: {1}'
       - lang: sv
-        text: 'Det verkar som att du använder **{0}**, men du har inte aktiverat en kompatibilitetspatch för denna mod. En patch från en tredje part finns här: {1}.'
+        text: 'Det verkar som att du använder **{0}**, men du har inte aktiverat en kompatibilitetspatch för denna mod. En patch från en tredje part finns här: {1}'
       - lang: ta
         text: 'நீங்கள் **{0}** ஐப் பயன்படுத்துவதாகத் தெரிகிறது, ஆனால் இந்த மோடிற்கான பொருந்தக்கூடிய இணைப்பை நீங்கள் இயக்கவில்லை. மூன்றாம் தரப்பு இணைப்பு இங்கே கிடைக்கிறது: {1}'
       - lang: tr_TR
@@ -2270,6 +2280,8 @@ common:
         text: 'Alterar o tipo de um plugin existente não é suportado. Detalhes adicionais são fornecidos [aqui]({0}).'
       - lang: ru
         text: 'Изменение типа существующего плагина не поддерживается. Дополнительная информация представлена [here]({0}).'
+      - lang: sv
+        text: 'Att ändra typen för ett befintligt plugin stöds inte. Ytterligare detaljer finns [här]({0}).'
       - lang: ta
         text: 'ஏற்கனவே உள்ள சொருகி வகையை மாற்றுவது ஆதரிக்கப்படவில்லை. கூடுதல் விவரங்கள் வழங்கப்படுகின்றன [இங்கே]({0}).'
       - lang: uk_UA
