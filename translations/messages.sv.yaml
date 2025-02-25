@@ -47,3 +47,5 @@ compatPatchForX: 'Det rekommenderas att du kontrollerar följande kompatibilitet
 deactivateAfterCharacterCreation: Avaktivera och/eller avinstallera denna mod efter du skapat din karaktär.
 disableAfterGeneratingXwithY: Detta plugin kan inaktiveras efter att ha genererat **{0}** med **{1}**.
 changeUnsupported: Att ändra typen för ett befintligt plugin stöds inte. Ytterligare detaljer finns [här]({0}).
+languageX: 'Språk: {0}'
+mainQuestCompleted: Använd endast denna plugin när spelets huvudmål har slutförts.
