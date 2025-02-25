@@ -1,11 +1,17 @@
 alreadyInOrFixedByX: Ta bort. Redan inkluderat eller fixat i {0}.
 alreadyInX: Ta bort. Redan inkluderat i {0}.
 alsoUseX: Det är rekommenderat att du också använder {0}.
+changeUnsupported: Att ändra typen för ett befintligt plugin stöds inte. Ytterligare detaljer finns [här]({0}).
 compatIssuesWithX: Det här pluginet är inte helt kompatibelt med {0}. För mer information, läs det här moddets kompatibilitetsanteckningar.
 compatNotes: Det är rekommenderat att du läser det här moddets [kompatibilitetsanteckningar]({0}).
+compatPatch: 'Det rekommenderas att du kontrollerar följande kompatibilitet patch sammanställning för denna mod: {0}'
+compatPatchForX: 'Det rekommenderas att du kontrollerar följande kompatibilitet patch sammanställning för {0}: {1}'
 corrupt: Denna fil är korrupt och borde inte användas.
+deactivateAfterCharacterCreation: Avaktivera och/eller avinstallera denna mod efter du skapat din karaktär.
 deleteOrDeactivateX: Ta bort eller avaktivera. {0}
 deletePlugin: När du använder **{0}** är det rekommenderat att du avaktiverar eller tar bort denna ESP-fil, men behåll resurserna (meshar och texturer) installerade med denna mod.
+disableAfterGeneratingXwithY: Detta plugin kan inaktiveras efter att ha genererat **{0}** med **{1}**.
+essentialFiles: En annan mod verkar skriva över en av denna mods viktiga filer. Se till att du använder denna mods version av {0} eller en kompatibel version om den är tillgänglig.
 includesX: '{0} är inluderat med denna mod.'
 incompatible: '{0} är inkompatibel med {1}, men bägge finns installerade.'
 latestLOOTThread: '[Senaste LOOT-tråd]({0}).'
@@ -41,9 +47,3 @@ versionOldX: Det verkar som att du inte har den senaste versionen av {0}. Några
 versionUpToDateX: Din {0} är uppdaterad.
 versionXIncY: Din installerade version av {0} är inte kombatibel med din version av {1}.
 wildEdits: Denna plugin innehåller [vilda föränringar](https://tes5edit.github.io/docs/7-mod-cleaning-and-error-checking.html#WildEdits) och kan kräva ytterligare manuell rensning för att inte störa andra moddar. {0}
-compatPatch: 'Det rekommenderas att du kontrollerar följande kompatibilitet patch sammanställning för denna mod: {0}'
-essentialFiles: En annan mod verkar skriva över en av denna mods viktiga filer. Se till att du använder denna mods version av {0} eller en kompatibel version om den är tillgänglig.
-compatPatchForX: 'Det rekommenderas att du kontrollerar följande kompatibilitet patch sammanställning för {0}: {1}'
-deactivateAfterCharacterCreation: Avaktivera och/eller avinstallera denna mod efter du skapat din karaktär.
-disableAfterGeneratingXwithY: Detta plugin kan inaktiveras efter att ha genererat **{0}** med **{1}**.
-changeUnsupported: Att ändra typen för ett befintligt plugin stöds inte. Ytterligare detaljer finns [här]({0}).
