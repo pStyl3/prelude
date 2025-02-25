@@ -14,7 +14,9 @@ disableAfterGeneratingXwithY: Detta plugin kan inaktiveras efter att ha generera
 essentialFiles: En annan mod verkar skriva över en av denna mods viktiga filer. Se till att du använder denna mods version av {0} eller en kompatibel version om den är tillgänglig.
 includesX: '{0} är inluderat med denna mod.'
 incompatible: '{0} är inkompatibel med {1}, men bägge finns installerade.'
+languageX: 'Språk: {0}'
 latestLOOTThread: '[Senaste LOOT-tråd]({0}).'
+mainQuestCompleted: Använd endast denna plugin när spelets huvudmål har slutförts.
 missingRequirementXforPlugin: Några av denna plugins behov/krav verkar saknas. Var god och se till att du har installerat **{0}** korrekt.
 missingRequirementXforY: Det verkar som om du har installerat **{1}**, men några av dess krav är inte uppfyllda. Var vänlig och se till att du har installerat **{0}**.
 moddingPlugin: Det här pluginet används som en modding resurs och borde inte användas i spelet.
